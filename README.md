@@ -6,16 +6,7 @@ Building high performance systems and cloud native infrastructure.
   <img src="https://trendshift.io/api/badge/developers/6952" alt="tolgaOzen | Trendshift" width="250" height="55"/>
 </a>
 
-## 🔧 Technologies & Tools
+## Projects
 
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Message_Broker-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
-![](https://img.shields.io/badge/IaC-Pulumi-informational?style=flat&logo=pulumi&logoColor=white&color=blue)
-![](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Ecosystem-Cloud_Native-informational?style=flat&logo=cncf&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+- [Permify](https://github.com/Permify/permify) – A Zanzibar-inspired authorization system based on relationship-based access control (REBAC).
+- [Fortyfour.ai](https://www.fortyfour.ai) – AI-native compliance automation for SOC 2 and ISO 27001.
