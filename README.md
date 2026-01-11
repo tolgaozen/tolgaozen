@@ -8,5 +8,5 @@ Building high performance systems and cloud native infrastructure.
 
 ## Projects
 
-- [Permify](https://github.com/Permify/permify) (acquired by FusionAuth) – A Zanzibar-inspired authorization system based on relationship-based access control (REBAC).
+- [Permify](https://github.com/Permify/permify) (acquired by FusionAuth) – A Zanzibar-inspired authorization system based on relationship-based access control.
 - [Plyne.ai](https://www.plyne.ai) – AI research agents that surface sales-ready accounts based on your ICP and real buying signals.
